@@ -6,7 +6,7 @@ Support engineers often spend the first 15 minutes of a support call manually ga
 ## Technical Overview
 This script interacts directly with the local system to pull hardware and networking metrics. It provides an automated assessment of system health, specifically flagging low disk space which is a common root cause for system sluggishness.
 
-![Architecture Diagram](python_diagnostics_scripts.png)
+![Architecture Diagram](python_diagnostic_scripts.png)
 
 ## Core Features
 * **Automated Data Collection:** Instantly retrieves OS name, Hostname, and Local IP address.
